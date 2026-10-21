@@ -1,0 +1,15 @@
+C:\Users\John Jherlet Hollero\source\repos\Group9_FOP_StoryTeller\Group9_FOP_StoryTeller\bin\Debug\net10.0\Group9_FOP_StoryTeller.exe
+C:\Users\John Jherlet Hollero\source\repos\Group9_FOP_StoryTeller\Group9_FOP_StoryTeller\bin\Debug\net10.0\Group9_FOP_StoryTeller.deps.json
+C:\Users\John Jherlet Hollero\source\repos\Group9_FOP_StoryTeller\Group9_FOP_StoryTeller\bin\Debug\net10.0\Group9_FOP_StoryTeller.runtimeconfig.json
+C:\Users\John Jherlet Hollero\source\repos\Group9_FOP_StoryTeller\Group9_FOP_StoryTeller\bin\Debug\net10.0\Group9_FOP_StoryTeller.dll
+C:\Users\John Jherlet Hollero\source\repos\Group9_FOP_StoryTeller\Group9_FOP_StoryTeller\bin\Debug\net10.0\Group9_FOP_StoryTeller.pdb
+C:\Users\John Jherlet Hollero\source\repos\Group9_FOP_StoryTeller\Group9_FOP_StoryTeller\obj\Debug\net10.0\Group9_FOP_StoryTeller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John Jherlet Hollero\source\repos\Group9_FOP_StoryTeller\Group9_FOP_StoryTeller\obj\Debug\net10.0\Group9_FOP_StoryTeller.AssemblyInfoInputs.cache
+C:\Users\John Jherlet Hollero\source\repos\Group9_FOP_StoryTeller\Group9_FOP_StoryTeller\obj\Debug\net10.0\Group9_FOP_StoryTeller.AssemblyInfo.cs
+C:\Users\John Jherlet Hollero\source\repos\Group9_FOP_StoryTeller\Group9_FOP_StoryTeller\obj\Debug\net10.0\Group9_FOP_StoryTeller.csproj.CoreCompileInputs.cache
+C:\Users\John Jherlet Hollero\source\repos\Group9_FOP_StoryTeller\Group9_FOP_StoryTeller\obj\Debug\net10.0\Group9_FOP_StoryTeller.dll
+C:\Users\John Jherlet Hollero\source\repos\Group9_FOP_StoryTeller\Group9_FOP_StoryTeller\obj\Debug\net10.0\refint\Group9_FOP_StoryTeller.dll
+C:\Users\John Jherlet Hollero\source\repos\Group9_FOP_StoryTeller\Group9_FOP_StoryTeller\obj\Debug\net10.0\Group9_FOP_StoryTeller.pdb
+C:\Users\John Jherlet Hollero\source\repos\Group9_FOP_StoryTeller\Group9_FOP_StoryTeller\obj\Debug\net10.0\Group9_FOP_StoryTeller.genruntimeconfig.cache
+C:\Users\John Jherlet Hollero\source\repos\Group9_FOP_StoryTeller\Group9_FOP_StoryTeller\obj\Debug\net10.0\ref\Group9_FOP_StoryTeller.dll
+C:\Users\John Jherlet Hollero\source\repos\Group9_FOP_StoryTeller\Group9_FOP_StoryTeller\obj\Debug\net10.0\Group9_F.F7F23712.Up2Date
